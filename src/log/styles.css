@@ -1,0 +1,21 @@
+button {
+  margin-left: 0px;
+  margin-top: 10px;
+  border-radius: 25px;
+  border: none;
+  background: #b8b894;
+}
+button:focus {
+  outline: none;
+}
+input:focus {
+  outline: none;
+}
+input {
+  border: none;
+  background: none;
+  color: black;
+}
+::placeholder {
+  color: black;
+}
